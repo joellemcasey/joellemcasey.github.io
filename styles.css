@@ -1,0 +1,52 @@
+Homepage:
+
+body { background: pink;
+		color: black;
+		font-size: 40pt; }
+		
+body { font-family: 'Raleway', sans-serif; }
+
+h1 { font-size: 40 pt;
+	color: black }
+
+
+Duke:
+
+body { background: LightSkyBlue;
+		color: navy;
+		font-size: 40pt; }
+
+body { font-family: 'Shadows Into Light', cursive; }
+
+p { font-family: 'Shadows Into Light', cursive; }
+
+h1 { font-size: 40pt;
+	color: navy }
+	
+
+Family:
+
+body { background: Snow;
+		color: maroon;
+		font-size: 40pt; }
+		
+body { font-family: 'Ovo', serif; }
+
+h1 { font-size: 40pt;
+	color: Maroon }
+	
+
+Friends/Summer:
+
+body { background: DarkSeaGreen;
+		color: DarkSlateGrey
+		font-size: 40pt; }
+		
+body { font-family: 'Amatic SC', cursive; }
+
+h1 { font-size: 40 pt;
+	color: DarkSlateGrey }
+
+
+Sports:
+	
